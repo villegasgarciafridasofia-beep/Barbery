@@ -1,4 +1,3 @@
-```markdown
 # Barbery
 
 <p align="center">
